@@ -6,6 +6,9 @@ A throwaway demonstration product for the Autonomous Build Platform release demo
 the LEGACY demo station, built before the station is upgraded to the collaboration release. It contains dummy content
 only and will be archived or deleted after the demonstration. Everything here is public.
 
+Since 2026-10-05 this product is built by the demonstration station `abp-rel-legacy3`: a new legacy station at platform
+pin 0f3949bf that is upgraded, live, to the frozen collaboration release R3 (`bb392029`).
+
 ## Learning objectives
 
 See how a pre-collaboration ABP station implements, reviews and publishes small changes to a product, and how the same
