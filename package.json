@@ -1,0 +1,9 @@
+{
+  "name": "abp-rel-legacy-product",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Dummy content for the ABP legacy-station release demonstration.",
+  "scripts": {
+    "test": "node --test \"packages/product/test/*.test.mjs\""
+  }
+}
